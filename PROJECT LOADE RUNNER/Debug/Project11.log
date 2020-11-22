@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\PinkPiton\Desktop\PROJECT LOADE RUNNER\Win10.h(74,12): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\PinkPiton\Desktop\PROJECT LOADE RUNNER\Win10.h(74,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\PinkPiton\Desktop\PROJECT LOADE RUNNER\Game.h(870,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Project11.vcxproj -> C:\Users\PinkPiton\Desktop\PROJECT LOADE RUNNER\Debug\Project11.exe
